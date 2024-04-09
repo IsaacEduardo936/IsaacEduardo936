@@ -3,8 +3,6 @@
 - 🌱 Atualmente estou aprendendo Python e Machine Learning
 - 💞️ Também estou compartilhando conteúdo no Youtube Canal Youtube e facebook
 - 📫 HVocê me acha através do e-mail isaaceduardoj2@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 IsaacEduardo936/IsaacEduardo936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
